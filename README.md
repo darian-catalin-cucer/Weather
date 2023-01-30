@@ -14,7 +14,7 @@ A simple weather app for Android that displays the current weather conditions an
 - Android device or emulator with API level 21 or higher
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/[username]/weather-app.git`
+1. Clone the repository: `git clone https://github.com/cucerdariancatalin/Weather.git`
 2. Open the project in Android Studio
 3. Connect your Android device or start an emulator
 4. Click on the Run button to install the app on your device or emulator
