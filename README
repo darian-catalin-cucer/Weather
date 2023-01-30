@@ -1,26 +1,26 @@
-# Weather App
+#Weather App
 
 A weather application that provides real-time weather information for any location in the world. The application displays the current temperature, humidity, wind speed, and a 5-day forecast for the selected location. 
 
-## Features
+##Features
 - Search for any location around the world
 - Displays current weather information including temperature, humidity, and wind speed
 - 5-day weather forecast
 - Aesthetic UI design with visual representations of weather conditions
 
-## How to Use
+##How to Use
 1. Clone the repository to your local machine
 2. Run `npm install` to install required packages
 3. Run `npm start` to launch the application
 4. Enter the location you want to search for in the search bar
 5. View the current weather information and 5-day forecast for the selected location
 
-## Technologies Used
+##Technologies Used
 - ReactJS for front-end development
 - OpenWeatherMap API for weather data
 
-## Contributing
+##Contributing
 If you're interested in contributing to this project, please follow the instructions in the [CONTRIBUTING.md](https://github.com/<user>/<repo>/blob/main/CONTRIBUTING.md) file.
 
-## License
+##License
 This project is licensed under the MIT license. See [LICENSE](https://github.com/<user>/<repo>/blob/main/LICENSE) for more information.
