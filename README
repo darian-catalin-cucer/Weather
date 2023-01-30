@@ -1,26 +1,30 @@
-#Weather App
+# Weather App
 
-A weather application that provides real-time weather information for any location in the world. The application displays the current temperature, humidity, wind speed, and a 5-day forecast for the selected location. 
+A simple weather app for Android that displays the current weather conditions and forecast for the next five days.
 
-##Features
-- Search for any location around the world
-- Displays current weather information including temperature, humidity, and wind speed
-- 5-day weather forecast
-- Aesthetic UI design with visual representations of weather conditions
+## Features
+- Displays current weather conditions and forecast for the next five days
+- Ability to search for a location by name or zip code
+- Option to switch between Celsius and Fahrenheit
+- Shows the current temperature, humidity, and wind speed
 
-##How to Use
-1. Clone the repository to your local machine
-2. Run `npm install` to install required packages
-3. Run `npm start` to launch the application
-4. Enter the location you want to search for in the search bar
-5. View the current weather information and 5-day forecast for the selected location
+## Requirements
+- Android Studio
+- Android device or emulator with API level 21 or higher
 
-##Technologies Used
-- ReactJS for front-end development
-- OpenWeatherMap API for weather data
+## Installation
+1. Clone the repository: `git clone https://github.com/[username]/weather-app.git`
+2. Open the project in Android Studio
+3. Connect your Android device or start an emulator
+4. Click on the Run button to install the app on your device or emulator
 
-##Contributing
-If you're interested in contributing to this project, please follow the instructions in the [CONTRIBUTING.md](https://github.com/<user>/<repo>/blob/main/CONTRIBUTING.md) file.
+## Usage
+1. Launch the app
+2. Search for a location by name or zip code
+3. View the current weather conditions and forecast
 
-##License
-This project is licensed under the MIT license. See [LICENSE](https://github.com/<user>/<repo>/blob/main/LICENSE) for more information.
+## Contributing
+If you would like to contribute to this project, please fork the repository and submit a pull request. All contributions are welcome and appreciated!
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
